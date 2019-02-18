@@ -1,0 +1,13 @@
+1.Download JDK --> https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+2.Set JAVA_HOME and Path by clicking environment variables
+
+3.Download Maven --> http://maven.apache.org/download.cgi
+
+4.Set path variable in environment by clicking variables
+
+5.Download Eclipse version 4.6 and above --> https://www.eclipse.org/downloads/packages/release/photon/r
+
+6.Install Google cloud plugin from Eclipse marketplace(under Help)
+
+7.Install Google cloud SDK --> https://cloud.google.com/sdk/docs/#install_the_latest_cloud_sdk_version
